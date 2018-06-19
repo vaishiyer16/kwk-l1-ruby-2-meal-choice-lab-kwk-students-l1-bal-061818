@@ -10,17 +10,17 @@ end
 puts breakfast
 puts breakfast("pancakes")
 
-def lunch(food="grilled cheese")
+def lunch(food = "grilled cheese")
   puts "Lunch is the best time for #{food}!"
 end
 puts lunch
 puts lunch("peanut butter")
 
-def dinner(food="salmon")
+def dinner(food = "salmon")
   puts "Dinner is the best time for #{food}!"
 end
 puts dinner
-puts dinner("cake")
+puts dinner("broccoli")
 
 
 
